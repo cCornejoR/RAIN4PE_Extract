@@ -14,4 +14,7 @@ RAIN4PE is a novel daily gridded precipitation dataset obtained by merging multi
 ![Daily_to_Mensual_and_Anual](https://user-images.githubusercontent.com/94501911/149381129-d7f991b5-151a-4a3f-a270-1bbf3957207c.png)
 
 ## REFERENCIAS
-https://doi.org/10.1175/jhm-d-20-0285.1
+Fernandez-Palomino, C. A.; Hattermann, F. F.; Krysanova, V.; Lobanova, A.; Vega-Jácome, F.; Lavado, W.;
+Santini, W.; Aybar, C.; Bronstert, A. (2021). Rain for Peru and Ecuador (RAIN4PE). V. 1.0. GFZ Data
+Services. https://doi.org/10.5880/pik.2020.010
+
