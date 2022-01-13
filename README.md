@@ -3,6 +3,7 @@ EXTRACT AREAL PRECIPITACION OF RAIN4PE GRIDED DATA
 
 [![GitHub
 commit](https://img.shields.io/github/last-commit/cCornejoR/RAIN4PE_Extract)](https://github.com/cCornejoR/RAIN4PE_Extract/comits/master)
+<a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
 
 Repository to download the daily information of the RAIN4PE gridded product in an areal way and plot monthly and annual information
 with the HydroTSM library.
