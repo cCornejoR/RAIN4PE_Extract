@@ -4,6 +4,9 @@ con la libreria HydroTSM.
 
 RAIN4PE is a novel daily gridded precipitation dataset obtained by merging multi-source precipitation data (satellite-based Climate Hazards Group InfraRed Precipitation, CHIRP (Funk et al. 2015), reanalysis ERA5 (Hersbach et al. 2020), and ground-based precipitation) with terrain elevation using the random forest regression method. Furthermore, RAIN4PE is hydrologically corrected using streamflow data in catchments with precipitation underestimation through reverse hydrology. Hence, RAIN4PE is the only gridded precipitation product for Peru and Ecuador, which benefits from maximum available in-situ observations, multiple precipitation sources, elevation data, and is supplemented by streamflow data to correct the precipitation underestimation over páramos and montane catchments.
 
+# LISTA
+    1. [Extraer Data]
+
 # Plot 1 - Data del año 1981
 ![RAIN4PE_1981](https://user-images.githubusercontent.com/94501911/149381091-dd3aa0f9-b67d-424e-94e1-8f5319e31346.png)
 
