@@ -23,6 +23,10 @@ RAIN4PE is a novel daily gridded precipitation dataset obtained by merging multi
 # Plot 3 - Daily to monthly and anual time series
 ![Daily_to_Mensual_and_Anual](https://user-images.githubusercontent.com/94501911/149381129-d7f991b5-151a-4a3f-a270-1bbf3957207c.png)
 
+#Plot 4 - Anomalies index of multianual precipitacion data
+![Anomalias_anuales_Tumbes_basin_1981_2015](https://user-images.githubusercontent.com/94501911/149427169-64db8cef-86c4-4541-92dd-714943c9fbd5.png)
+
+
 ## REFERENCES
 - [A novel high-resolution gridded precipitation dataset for Peruvian and Ecuadorian watersheds – development and hydrological evaluation](https://doi.org/10.1175/JHM-D-20-0285.1)
 
