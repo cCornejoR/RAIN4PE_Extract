@@ -6,7 +6,7 @@ con lalberia HydroTSM.
 #Plot 1
 ![RAIN4PE_1981](https://user-images.githubusercontent.com/94501911/149381091-dd3aa0f9-b67d-424e-94e1-8f5319e31346.png)
 
-#Plot 2
+#Plot 2 - Extracción de la informacion por cuenca de interes
 ![plot1](https://user-images.githubusercontent.com/94501911/149381006-7a3cdd94-ad6b-4e18-9038-afd44e322a3a.png)
 
 #Plot 3
