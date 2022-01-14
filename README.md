@@ -1,4 +1,4 @@
-EXTRACT AREAL PRECIPITACION OF RAIN4PE GRIDED DATA 
+EXTRACT AREAL PRECIPITATION OF RAIN4PE GRIDDED DATA 
 ================
 
 [![GitHub
@@ -21,14 +21,14 @@ RAIN4PE is a novel daily gridded precipitation dataset obtained by merging multi
 # Plot 2 - Information extraction by basin geometry
 ![plot1](https://user-images.githubusercontent.com/94501911/149381006-7a3cdd94-ad6b-4e18-9038-afd44e322a3a.png)
 
-# Plot 3 - Daily to monthly and anual time series
+# Plot 3 - Daily to monthly and annual time series
 ![Daily_to_Mensual_and_Anual](https://user-images.githubusercontent.com/94501911/149381129-d7f991b5-151a-4a3f-a270-1bbf3957207c.png)
 
-# Plot 4 - Anual precipitacion on basin
+# Plot 4 - Annual precipitation on basin
 ![Anual_pp_tumbes_basin](https://user-images.githubusercontent.com/94501911/149456724-a1f402ea-696c-4c67-9be2-d7304ccff1fd.png)
 
 
-# Plot 5 - Anomalies index of multianual precipitacion data
+# Plot 5 - Anomalies index of multianual precipitation data
 ![Anomalias_anuales_Tumbes_basin_1981_2015](https://user-images.githubusercontent.com/94501911/149427169-64db8cef-86c4-4541-92dd-714943c9fbd5.png)
 
 
